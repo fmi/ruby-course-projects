@@ -4,4 +4,4 @@
 
 - **[Ръководство за курсовите проекти](course_projects.md)**
 - [Помощно ръководство за уеб проекти](web_with_sinatra.md)
-- [Примерни проекти](sample_projects/)
+- [Примерни проекти](sample_projects/#readme)
